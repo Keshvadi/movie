@@ -1,0 +1,321 @@
+[
+  {
+    "properties": {
+      "render_id": 11,
+      "player_id": 1,
+      "origin_url": "https://www.ted.com/",
+      "frame_url": "https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love/up-next",
+      "frame_title": "Scott Dinsmore: How to find work you love | TED Talk",
+      "surface_layer_mode": "kOnDemand",
+      "url": "blob:https://www.ted.com/4f4b7615-4fb1-4e39-88fd-c9c76542e5b5",
+      "info": "video decoder config changed midstream, new config: codec: h264, format: PIXEL_FORMAT_I420, profile: h264 main, coded size: [854,480], visible rect: [0,0,854,480], natural size: [854,480], has extra data: false, encryption scheme: Unencrypted, rotation: 0°",
+      "pipeline_state": "kSuspended",
+      "found_video_stream": true,
+      "video_codec_name": "h264",
+      "found_audio_stream": true,
+      "audio_codec_name": "aac",
+      "audio_dds": false,
+      "audio_decoder": "FFmpegAudioDecoder",
+      "is_platform_audio_decoder": false,
+      "video_dds": false,
+      "video_decoder": "MojoVideoDecoder",
+      "is_platform_video_decoder": true,
+      "audio_buffering_state": "BUFFERING_HAVE_ENOUGH",
+      "video_buffering_state": "BUFFERING_HAVE_ENOUGH",
+      "height": 480,
+      "width": 854,
+      "for_suspended_start": false,
+      "pipeline_buffering_state": "BUFFERING_HAVE_ENOUGH",
+      "event": "SUSPENDED",
+      "duration": 1067.3334,
+      "seek_target": 14.929825
+    },
+    "events": [
+      {
+        "time": 0,
+        "key": "origin_url",
+        "value": "https://www.ted.com/"
+      },
+      {
+        "time": 0.02199999988079071,
+        "key": "frame_url",
+        "value": "https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love/up-next"
+      },
+      {
+        "time": 0.029000014066696167,
+        "key": "frame_title",
+        "value": "Scott Dinsmore: How to find work you love | TED Talk"
+      },
+      {
+        "time": 0.039000004529953,
+        "key": "surface_layer_mode",
+        "value": "kOnDemand"
+      },
+      {
+        "time": 3.9980000108480453,
+        "key": "url",
+        "value": "blob:https://www.ted.com/4f4b7615-4fb1-4e39-88fd-c9c76542e5b5"
+      },
+      {
+        "time": 4.115000009536743,
+        "key": "info",
+        "value": "ChunkDemuxer: buffering by PTS"
+      },
+      {
+        "time": 15.226000010967255,
+        "key": "pipeline_state",
+        "value": "kStarting"
+      },
+      {
+        "time": 8247.879000008106,
+        "key": "found_video_stream",
+        "value": true
+      },
+      {
+        "time": 8247.966000005603,
+        "key": "video_codec_name",
+        "value": "h264"
+      },
+      {
+        "time": 8257.543000012636,
+        "key": "found_audio_stream",
+        "value": true
+      },
+      {
+        "time": 8257.558000013232,
+        "key": "audio_codec_name",
+        "value": "aac"
+      },
+      {
+        "time": 8277.309000000358,
+        "key": "audio_dds",
+        "value": false
+      },
+      {
+        "time": 8277.340000003576,
+        "key": "audio_decoder",
+        "value": "FFmpegAudioDecoder"
+      },
+      {
+        "time": 8277.371000006795,
+        "key": "is_platform_audio_decoder",
+        "value": false
+      },
+      {
+        "time": 8277.488000005484,
+        "key": "info",
+        "value": "Selected FFmpegAudioDecoder for audio decoding, config: codec: aac, bytes_per_channel: 2, channel_layout: 2, channels: 1, samples_per_second: 44100, sample_format: 2, bytes_per_frame: 2, seek_preroll: 0us, codec_delay: 0, has extra data: true, encryption scheme: Unencrypted, discard decoder delay: false"
+      },
+      {
+        "time": 8339.001000002027,
+        "key": "video_dds",
+        "value": false
+      },
+      {
+        "time": 8339.015000000596,
+        "key": "video_decoder",
+        "value": "MojoVideoDecoder"
+      },
+      {
+        "time": 8339.062000006437,
+        "key": "is_platform_video_decoder",
+        "value": true
+      },
+      {
+        "time": 8339.15000000596,
+        "key": "info",
+        "value": "Selected MojoVideoDecoder for video decoding, config: codec: h264, format: PIXEL_FORMAT_I420, profile: h264 baseline, coded size: [320,180], visible rect: [0,0,320,180], natural size: [320,180], has extra data: false, encryption scheme: Unencrypted, rotation: 0°"
+      },
+      {
+        "time": 8339.24200001359,
+        "key": "pipeline_state",
+        "value": "kPlaying"
+      },
+      {
+        "time": 8341.094000011683,
+        "key": "audio_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 8741.121000006795,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 8773.781000003219,
+        "key": "height",
+        "value": 180
+      },
+      {
+        "time": 8773.781000003219,
+        "key": "width",
+        "value": 320
+      },
+      {
+        "time": 8773.891000002623,
+        "key": "for_suspended_start",
+        "value": false
+      },
+      {
+        "time": 8773.891000002623,
+        "key": "pipeline_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 8774.112000003457,
+        "key": "info",
+        "value": "Effective playback rate changed from 0 to 1"
+      },
+      {
+        "time": 8774.298000007868,
+        "key": "event",
+        "value": "PLAY"
+      },
+      {
+        "time": 8248.64699999988,
+        "key": "duration",
+        "value": 1067.3334
+      },
+      {
+        "time": 20693.91400000453,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_NOTHING"
+      },
+      {
+        "time": 23694.843000009656,
+        "key": "for_suspended_start",
+        "value": false
+      },
+      {
+        "time": 23694.843000009656,
+        "key": "pipeline_buffering_state",
+        "value": "BUFFERING_HAVE_NOTHING"
+      },
+      {
+        "time": 26967.891000002623,
+        "key": "seek_target",
+        "value": 14.929825
+      },
+      {
+        "time": 26968.355000004172,
+        "key": "pipeline_state",
+        "value": "kSeeking"
+      },
+      {
+        "time": 26968.524000003934,
+        "key": "audio_buffering_state",
+        "value": "BUFFERING_HAVE_NOTHING"
+      },
+      {
+        "time": 26970.14500001073,
+        "key": "pipeline_state",
+        "value": "kPlaying"
+      },
+      {
+        "time": 26970.466000005603,
+        "key": "info",
+        "value": "video decoder config changed midstream, new config: codec: h264, format: PIXEL_FORMAT_I420, profile: h264 baseline, coded size: [512,288], visible rect: [0,0,512,288], natural size: [512,288], has extra data: false, encryption scheme: Unencrypted, rotation: 0°"
+      },
+      {
+        "time": 26972.10900001228,
+        "key": "audio_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 27460.054000005126,
+        "key": "height",
+        "value": 288
+      },
+      {
+        "time": 27460.054000005126,
+        "key": "width",
+        "value": 512
+      },
+      {
+        "time": 27460.176000013947,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 27460.899000003934,
+        "key": "for_suspended_start",
+        "value": false
+      },
+      {
+        "time": 27460.899000003934,
+        "key": "pipeline_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 80879.24500000477,
+        "key": "info",
+        "value": "video decoder config changed midstream, new config: codec: h264, format: PIXEL_FORMAT_I420, profile: h264 baseline, coded size: [640,360], visible rect: [0,0,640,360], natural size: [640,360], has extra data: false, encryption scheme: Unencrypted, rotation: 0°"
+      },
+      {
+        "time": 81155.5040000081,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_NOTHING"
+      },
+      {
+        "time": 81178.95900000632,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 81188.40500000119,
+        "key": "height",
+        "value": 360
+      },
+      {
+        "time": 81188.40500000119,
+        "key": "width",
+        "value": 640
+      },
+      {
+        "time": 99538.34600000083,
+        "key": "info",
+        "value": "video decoder config changed midstream, new config: codec: h264, format: PIXEL_FORMAT_I420, profile: h264 main, coded size: [854,480], visible rect: [0,0,854,480], natural size: [854,480], has extra data: false, encryption scheme: Unencrypted, rotation: 0°"
+      },
+      {
+        "time": 99747.99100001156,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_NOTHING"
+      },
+      {
+        "time": 99758.21100001037,
+        "key": "video_buffering_state",
+        "value": "BUFFERING_HAVE_ENOUGH"
+      },
+      {
+        "time": 99816.11300000548,
+        "key": "height",
+        "value": 480
+      },
+      {
+        "time": 99816.11300000548,
+        "key": "width",
+        "value": 854
+      },
+      {
+        "time": 138626.0340000093,
+        "key": "event",
+        "value": "PAUSE"
+      },
+      {
+        "time": 142171.74500000477,
+        "key": "pipeline_state",
+        "value": "kSuspending"
+      },
+      {
+        "time": 142173.5490000099,
+        "key": "pipeline_state",
+        "value": "kSuspended"
+      },
+      {
+        "time": 142173.93100000918,
+        "key": "event",
+        "value": "SUSPENDED"
+      }
+    ]
+  }
+]

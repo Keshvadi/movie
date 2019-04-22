@@ -1,0 +1,74 @@
+[
+  {
+    "properties": {
+      "render_id": 3,
+      "player_id": 42,
+      "origin_url": "https://m.youtube.com/",
+      "frame_url": "https://m.youtube.com/watch?v=whZsut9LmvU",
+      "frame_title": "YouTube",
+      "surface_layer_mode": "kOnDemand",
+      "url": "blob:https://m.youtube.com/96d6de5d-5016-4aa5-96e1-67b6d7e5e82c",
+      "info": "ChunkDemuxer: buffering by PTS",
+      "pipeline_state": "kStopped",
+      "event": "WEBMEDIAPLAYER_DESTROYED",
+      "duration": 642
+    },
+    "events": [
+      {
+        "time": 0,
+        "key": "origin_url",
+        "value": "https://m.youtube.com/"
+      },
+      {
+        "time": 0.024999991059303284,
+        "key": "frame_url",
+        "value": "https://m.youtube.com/watch?v=whZsut9LmvU"
+      },
+      {
+        "time": 0.03399999439716339,
+        "key": "frame_title",
+        "value": "YouTube"
+      },
+      {
+        "time": 0.040999993681907654,
+        "key": "surface_layer_mode",
+        "value": "kOnDemand"
+      },
+      {
+        "time": 0.8409999907016754,
+        "key": "url",
+        "value": "blob:https://m.youtube.com/96d6de5d-5016-4aa5-96e1-67b6d7e5e82c"
+      },
+      {
+        "time": 0.9949999898672104,
+        "key": "info",
+        "value": "ChunkDemuxer: buffering by PTS"
+      },
+      {
+        "time": 21.44200000166893,
+        "key": "pipeline_state",
+        "value": "kStarting"
+      },
+      {
+        "time": 338.86899998784065,
+        "key": "event",
+        "value": "WEBMEDIAPLAYER_DESTROYED"
+      },
+      {
+        "time": 339.06999999284744,
+        "key": "pipeline_state",
+        "value": "kStopping"
+      },
+      {
+        "time": 339.15399999916553,
+        "key": "pipeline_state",
+        "value": "kStopped"
+      },
+      {
+        "time": 143.3509999960661,
+        "key": "duration",
+        "value": 642
+      }
+    ]
+  }
+]
