@@ -4,20 +4,18 @@
 MoVIE is a client-side traffic analyser that studies smartphone video streaming from different viewpoints.
 
 ## Getting Started
-
 See [MoVIE's webpage](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie) for notes on how to deploy MoVIE to capture and analysis Mobile video streaming.
 
 ## Example
 
 ### Case Study
-Here you can see the output of MoVIE that studied video streaming from YouTube and Facebook.
+[Here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/case.html) is the output of a case study of video streaming from YouTube and Facebook.
 
 ### log
-To test the MoVIE's ability, you can download our experiments logs from [here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/example). These logs are captured from YouTube video streaming.
+To test the MoVIE's ability, captured data from YouTube video streaming is [here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/example). 
 
 
-### Prerequisites
-
+## Prerequisites
 In order capture data, MoVIE needs MITMproxy and Wireshark or TShark. 
 
 To run MoVIE, you need Python3 with the following libraries:
@@ -31,5 +29,6 @@ MoVIE is created by two members of [Network Research Group](https://www.ucalgary
 * [Carey Williamson](http://pages.cpsc.ucalgary.ca/~carey/) 
 * [Sina Keshvadi](http://pages.cpsc.ucalgary.ca/~sina.keshvadi1/)
 
-### Change log
-* 21 April 2019 <b> 1.0.0.0 </b> First version uploaded.
+## Change log
+* <b>21 April 2019</b> Case study added.
+* <b>01 April 2019</b> First version uploaded.
