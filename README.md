@@ -1,7 +1,6 @@
 # MoVIE (Mobile Video Information Extraction)
 
 ## Description
-
 MoVIE is a client-side traffic analyser that studies smartphone video streaming from different viewpoints.
 
 ## Getting Started
