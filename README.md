@@ -11,7 +11,7 @@ See [MoVIE's webpage](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie) for 
 ### Case Study
 [Here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/case.html) is the output of a case study of video streaming from YouTube and Facebook.
 
-### log
+### Sample log
 To test the MoVIE's ability, captured data from YouTube video streaming is [here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/example). 
 
 
