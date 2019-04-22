@@ -27,7 +27,7 @@ To run MoVIE, you need Python3 with the following libraries:
 MoVIE is created by two members of Network Research Group of the University of Calgary.
 
 * [Carey Williamson](http://pages.cpsc.ucalgary.ca/~carey/) 
-* Sina Keshvadi, Ph.D Student.
+* [Sina Keshvadi](http://pages.cpsc.ucalgary.ca/~sina.keshvadi1/)
 
 ### Change log
 <b> 1.0.0.0 </b> First version uploaded.
