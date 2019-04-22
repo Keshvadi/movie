@@ -30,5 +30,5 @@ MoVIE is created by two members of [Network Research Group](https://www.ucalgary
 * [Sina Keshvadi](http://pages.cpsc.ucalgary.ca/~sina.keshvadi1/)
 
 ## Change log
-* <b>21 April 2019</b> Case study added.
-* <b>01 April 2019</b> First version uploaded.
+* <b>21 April 2019</b> - Case study added.
+* <b>01 April 2019</b> - First version uploaded.
