@@ -24,7 +24,7 @@ To run MoVIE, you need Python3 with the following libraries:
 * hurry.filesize
 
 ## Contributing
-MoVIE is created by two members of Network Research Group of the University of Calgary.
+MoVIE is created by two members of [Network Research Group](https://www.ucalgary.ca/elisa/) of the [University of Calgary](https://www.ucalgary.ca/).
 
 * [Carey Williamson](http://pages.cpsc.ucalgary.ca/~carey/) 
 * [Sina Keshvadi](http://pages.cpsc.ucalgary.ca/~sina.keshvadi1/)
