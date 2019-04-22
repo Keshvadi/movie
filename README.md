@@ -10,10 +10,10 @@ See [MoVIE's webpage](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie) for 
 
 ## Example
 
-###Case Study
+### Case Study
 Here you can see the output of MoVIE that studied video streaming from YouTube and Facebook.
 
-###log
+### log
 To test the MoVIE's ability, you can download our experiments logs from [here](https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/example). These logs are captured from YouTube video streaming.
 
 
