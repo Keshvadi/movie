@@ -8,10 +8,11 @@ MoVIE is a client-side traffic analyser that studies smartphone video streaming 
 
 See https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie for notes on how to deploy MoVIE to capture and analysis Mobile video streaming.
 
-## Test Cases
+## Example
 
 To test the MoVIE's ability, you can download YouTube video streaming logs from here:
 https://pages.cpsc.ucalgary.ca/~sina.keshvadi1/movie/example
+
 
 
 ### Prerequisites
